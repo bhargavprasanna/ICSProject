@@ -104,7 +104,7 @@ print("Testing Images :", x_test.shape)
 base_model = MobileNet(
     weights="imagenet",
     include_top=False,
-    input_shape=(128,128,3)
+    input_shape=(96,96,3)
 )
 
 for layer in base_model.layers:
