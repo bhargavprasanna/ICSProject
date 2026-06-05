@@ -76,12 +76,12 @@ x_test = x_test.astype(
 
 x_train = tf.image.resize(
     x_train,
-    (128,128)
+    (96,96)
 )
 
 x_test = tf.image.resize(
     x_test,
-    (128,128)
+    (96,96)
 )
 
 y_train_cat = to_categorical(
