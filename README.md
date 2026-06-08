@@ -10,9 +10,9 @@
 
 | S.No | Name                      | Roll / ID   |
 | ---- | ------------------------- | ----------- |
-| 1    | Bhargav Prasanna Upputuri | Team Member |
-| 2    | Teja Abhiram Rongala      | Team Member |
-| 3    | Deepak Satya Paluri       | Team Member |
+| 1    | Bhargav Prasanna Upputuri | AD25B1037 |
+| 2    | Teja Abhiram Rongala      | CS25B1033 |
+| 3    | Deepak Satya Paluri       | CS25B1031 |
 
 ---
 
@@ -346,5 +346,9 @@ We express our gratitude to our faculty members, institution, TensorFlow develop
 # Authors
 
 **Bhargav Prasanna Upputuri**
+
+
 **Teja Abhiram Rongala**
+
+
 **Deepak Satya Paluri**
