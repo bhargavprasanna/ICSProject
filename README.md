@@ -1,4 +1,4 @@
-# MobileNet-Based Image Classification on CIFAR-10 Using a Custom Loss Function
+# MobileNet-Based Image Classification on CIFAR-10 Using a Custom Focal Loss Function
 
 ## Project Title
 
