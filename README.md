@@ -154,11 +154,7 @@ ICSProject/
 │   └── metrics.txt
 │
 ├── saved_model/
-│   └── mobilenet_cifar10.keras
-│
-└── report/
-    ├── Project_Report.docx
-    └── Project_Report.pdf
+    └── mobilenet_cifar10.keras
 ```
 
 ---
