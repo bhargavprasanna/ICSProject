@@ -116,7 +116,7 @@ MobileNet is a lightweight convolutional neural network specifically designed fo
 
 ## Focal Loss
 
-The project uses Focal Loss instead of standard categorical cross-entropy.
+The project uses Focal Loss function
 
 ### Advantages
 
